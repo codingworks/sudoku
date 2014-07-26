@@ -20,4 +20,4 @@ If there are multiple solutions, only two of them are obtained and shown.
 
 ###Download
 
-* [sudoku-1.0.jar](www.codingworks.net/lib/sudoku-1.0.jar)
+* [sudoku-1.0.jar](http://www.codingworks.net/lib/sudoku-1.0.jar)
